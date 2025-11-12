@@ -31,9 +31,8 @@ An end-to-end churn analysis project implemented in three stages: analyzing hist
 ## <u>**Data Source**</u>
 
 Telecom Customer Churn Dataset:
-*Includes demographics, account info, service details, and churn status.
+* Includes demographics, account info, service details, and churn status.
 * **Key fields:** Gender, Age, Tenure, Contract, Payment Method, Monthly Charges, Services, Churn Category.
-
 ---
 
 ## <u>**Project Implementation**</u>
